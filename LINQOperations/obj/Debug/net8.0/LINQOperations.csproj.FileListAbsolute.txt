@@ -1,0 +1,14 @@
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\bin\Debug\net8.0\LINQOperations.exe
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\bin\Debug\net8.0\LINQOperations.deps.json
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\bin\Debug\net8.0\LINQOperations.runtimeconfig.json
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\bin\Debug\net8.0\LINQOperations.dll
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\bin\Debug\net8.0\LINQOperations.pdb
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.AssemblyInfoInputs.cache
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.AssemblyInfo.cs
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.csproj.CoreCompileInputs.cache
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.dll
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\refint\LINQOperations.dll
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.pdb
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\LINQOperations.genruntimeconfig.cache
+Z:\.net\DOTNETREPO-master\LINQOperations\LINQOperations\obj\Debug\net8.0\ref\LINQOperations.dll
